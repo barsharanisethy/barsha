@@ -1,0 +1,79 @@
+2025-04-14T13:14:19.015068Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-04-14T13:14:19.281242Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe (mysqld 9.2.0) starting as process 5900
+2025-04-14T13:14:19.487323Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-04-14T13:14:19.705110Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-04-14T13:14:20.004635Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-04-14T13:14:20.005213Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-04-14T13:14:20.043938Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-04-14T13:14:20.043953Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: ready for connections. Version: '9.2.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2025-04-14T13:14:37.794455Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Normal shutdown.
+2025-04-14T13:14:38.167237Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Shutdown complete (mysqld 9.2.0)  MySQL Community Server - GPL.
+2025-04-14T13:14:38.170755Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-04-14T13:14:39.198139Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-04-14T13:14:39.396772Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe (mysqld 9.2.0) starting as process 13500
+2025-04-14T13:14:39.428048Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-04-14T13:14:39.644179Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-04-14T13:14:39.881031Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-04-14T13:14:39.881277Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-04-14T13:14:39.910142Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: ready for connections. Version: '9.2.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2025-04-14T13:14:39.910180Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-04-16T13:41:42.025948Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Normal shutdown.
+2025-04-16T13:41:44.043830Z 0 [Warning] [MY-010909] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Forcing close of thread 16  user: 'root'.
+2025-04-16T13:41:44.044575Z 0 [Warning] [MY-010909] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Forcing close of thread 17  user: 'root'.
+2025-04-16T13:41:45.290133Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Shutdown complete (mysqld 9.2.0)  MySQL Community Server - GPL.
+2025-04-16T13:41:45.290641Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-04-16T13:41:45.951627Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-04-16T13:41:46.244480Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe (mysqld 9.2.0) starting as process 6364
+2025-04-16T13:41:46.318396Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-04-16T13:41:46.597012Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-04-16T13:41:46.968053Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-04-16T13:41:46.968328Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-04-16T13:41:47.018712Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-04-16T13:41:47.018846Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: ready for connections. Version: '9.2.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2025-04-16T13:41:50.906784Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Normal shutdown.
+2025-04-16T13:41:52.003045Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Shutdown complete (mysqld 9.2.0)  MySQL Community Server - GPL.
+2025-04-16T13:41:52.003898Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-04-16T13:41:52.322193Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-04-16T13:41:52.558214Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe (mysqld 9.2.0) starting as process 17204
+2025-04-16T13:41:52.582950Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-04-16T13:41:52.852820Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-04-16T13:41:53.174003Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-04-16T13:41:53.174315Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-04-16T13:41:53.217432Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-04-16T13:41:53.217454Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: ready for connections. Version: '9.2.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2025-04-16T13:42:49.175943Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-04-16T13:42:49.385576Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe (mysqld 9.2.0) starting as process 1160
+2025-04-16T13:42:49.428995Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-04-16T13:42:49.429584Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2025-04-16T13:42:49.429854Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2025-04-16T13:42:49.430123Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-04-16T13:42:49.431550Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-04-16T13:42:49.431786Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-04-16T13:42:49.433138Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Shutdown complete (mysqld 9.2.0)  MySQL Community Server - GPL.
+2025-04-16T13:42:49.433590Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-04-22T11:46:55.020688Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-04-22T11:46:55.246740Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe (mysqld 9.2.0) starting as process 6500
+2025-04-22T11:46:55.396531Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-04-22T11:46:55.398309Z 1 [ERROR] [MY-012271] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2025-04-22T11:46:55.399218Z 1 [ERROR] [MY-012278] [InnoDB] The innodb_system data file 'ibdata1' must be writable
+2025-04-22T11:46:55.400860Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2025-04-22T11:46:55.402917Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2025-04-22T11:46:55.403641Z 0 [ERROR] [MY-010119] [Server] Aborting
+2025-04-22T11:46:55.407564Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Shutdown complete (mysqld 9.2.0)  MySQL Community Server - GPL.
+2025-04-22T11:46:55.408432Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-04-26T16:41:17.264205Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Normal shutdown.
+2025-04-26T16:41:18.228001Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Shutdown complete (mysqld 9.2.0)  MySQL Community Server - GPL.
+2025-04-26T16:41:18.228395Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-04-26T16:41:54.597232Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-04-26T16:41:55.044142Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe (mysqld 9.2.0) starting as process 5696
+2025-04-26T16:41:55.238281Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-04-26T16:41:55.974806Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-04-26T16:41:56.701155Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-04-26T16:41:56.703638Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-04-26T16:41:56.802793Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-04-26T16:41:56.802953Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: ready for connections. Version: '9.2.0'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2025-04-26T16:42:36.374826Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Normal shutdown.
+2025-04-26T16:42:36.955765Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe: Shutdown complete (mysqld 9.2.0)  MySQL Community Server - GPL.
+2025-04-26T16:42:36.956237Z 0 [System] [MY-015016] [Server] MySQL Server - end.
+2025-04-26T16:43:12.598698Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2025-04-26T16:43:13.170740Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 9.2\bin\mysqld.exe (mysqld 9.2.0) starting as process 5912
